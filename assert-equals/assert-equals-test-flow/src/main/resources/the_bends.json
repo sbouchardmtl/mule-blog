@@ -1,0 +1,10 @@
+{
+  "artist": "radiohead",
+  "album": {
+    "title": "the bends",
+    "songs": [
+      "The bends",
+      "Fake plastic trees"
+    ]
+  }
+}
